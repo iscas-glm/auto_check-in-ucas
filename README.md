@@ -16,17 +16,17 @@
 
 ### 部署在个人pc上
 
-1.安装chrome浏览器，并查看对应的浏览器版本，自行完成。
-2.官网下载chromedriver  https://chromedriver.chromium.org/ 对应操作系统版本，会得到一个chromedriver，记住它的pwd（文件路径）
-3.在auto_check.py中修改第20行的第一个参数，为步骤2中的pwd
-4.设置定时任务（这块单独讲一下）
+* 1.安装chrome浏览器，并查看对应的浏览器版本，自行完成。
+* 2.官网下载chromedriver  https://chromedriver.chromium.org/ 对应操作系统版本，会得到一个chromedriver，记住它的pwd（文件路径）
+* 3.在auto_check.py中修改第20行的第一个参数，为步骤2中的pwd
+* 4.设置定时任务（这块单独讲一下）
 
 
 ### 部署在linux服务器上：
-1.参考此篇文章：
+* 1.参考此篇文章：
 linux服务器ubuntu中安装chrome浏览器及配置selenium依赖环境
 https://blog.csdn.net/weixin_42649856/article/details/103275162
-同部署在个人pc的方法中的步骤2、3、4
+* 同部署在个人pc的方法中的步骤2、3、4
 
 
 ### 设置定时任务
